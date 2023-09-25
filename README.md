@@ -1,6 +1,7 @@
 # Calculadora de IMC
 
-Projeto que Calcula o IMC e lista o IMC calculado em um histórico.
+Projeto que Calcula o IMC e lista os IMCs calculados em um histórico.
+Obs.: Este projeto foi desenvolvido para uma atividade do bootcamp de Flutter da Dio. Esta é a primeira parte do projeto.
 
 ## ScreenShots
 ### Screenshot Homepage
